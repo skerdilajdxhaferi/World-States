@@ -1,0 +1,49 @@
+   
+.row{
+  
+  margin: 10%;
+  padding: 0 10%;
+  
+    background-color: rgba(255, 255, 255, 0.651);
+
+    text-align: center;
+  }
+  
+     .harta img, .text h2, .text p {
+  
+       
+       width: 60%;
+      height: auto;
+     }
+  
+  
+     .harta{
+  
+  
+      width:40%;
+      height: auto;
+      padding: 5px;
+  
+     }
+
+    .text{
+  
+  
+      width:60%;
+      height: auto;
+      padding: 5px;
+  
+     }
+  
+  
+  
+  
+  
+  .container{
+    border: 1px solid  rgba(172, 172, 172, 0.5);
+   margin-bottom: 10%;
+   font-weight: 800;
+  
+   
+  }
+    

@@ -1,0 +1,111 @@
+body{
+	
+	background-image: url("/img/bota.jpg");
+	 background-size: cover	 ;
+	
+    background-attachment: fixed;
+}
+
+
+
+
+
+
+
+h1{   
+         
+         color: black;
+		 font-size:5em;
+		 font-family:big john ;
+	     text-align: center;
+	     background-color:transparent;
+	
+		 }
+
+	
+		 
+		.col-md-12 { 
+			
+
+			background-color:  rgba(255, 255, 255, 0.651);
+			margin-bottom: 10%;
+			font-weight: 900;
+			font-size: large;
+			 
+
+		 }
+
+		 
+
+		 p{
+			font-family:big john ;
+			
+			font-size:1.5em;
+		 }
+
+	
+	
+	#bosh{
+		
+	background-color:black; 
+ }
+	
+	
+	table{
+		
+		opacity:.9;
+		margin-top:6rem;
+		margin-bottom:10em;
+		background-color: rgba(172, 172, 172, 0.849) ;
+		width: 100%;
+		
+		
+
+	}
+	
+
+	td,th{
+
+		text-align:center;
+		font-weight: 700;
+		border: 3px solid black;
+	   
+	   }
+	   
+ 
+  
+	
+	a:hover{/*ngjyra e shteteve kur cojm mausin*/
+		
+	     color:#202001c9;
+		
+	}
+	
+	
+	#myBtn {
+  
+  position: fixed;
+  bottom: 10px;
+  right: 30px;
+
+  font-size: 40px;
+  border: 2px solid ;
+ 
+  color: black;
+  cursor: pointer;
+  padding: 10px;
+  padding-bottom:5px;
+  margin-bottom:20px;
+  border-radius: 4px;
+   
+  
+}
+
+#myBtn:hover {
+font-size: 30px;
+
+}
+	
+	
+	
+  
